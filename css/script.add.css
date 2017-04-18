@@ -882,24 +882,7 @@ button.swiper-pagination-bullet {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* custom */
 .datepicker table tr:nth-of-type(5n+0) td{border-bottom:0;}
 .datepicker table tr:nth-of-type(5n+0) td{ border-bottom:0 !important; }
 .toggle_area {display:none}
